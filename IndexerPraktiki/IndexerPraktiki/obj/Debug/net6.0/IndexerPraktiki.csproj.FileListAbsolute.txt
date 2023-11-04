@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\bin\Debug\net6.0\IndexerPraktiki.exe
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\bin\Debug\net6.0\IndexerPraktiki.deps.json
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\bin\Debug\net6.0\IndexerPraktiki.runtimeconfig.json
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\bin\Debug\net6.0\IndexerPraktiki.dll
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\bin\Debug\net6.0\IndexerPraktiki.pdb
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\obj\Debug\net6.0\IndexerPraktiki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\obj\Debug\net6.0\IndexerPraktiki.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\obj\Debug\net6.0\IndexerPraktiki.AssemblyInfo.cs
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\obj\Debug\net6.0\IndexerPraktiki.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\obj\Debug\net6.0\IndexerPraktiki.dll
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\obj\Debug\net6.0\refint\IndexerPraktiki.dll
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\obj\Debug\net6.0\IndexerPraktiki.pdb
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\obj\Debug\net6.0\IndexerPraktiki.genruntimeconfig.cache
+C:\Users\User\Desktop\Homework\Indexer\IndexerPraktiki\IndexerPraktiki\obj\Debug\net6.0\ref\IndexerPraktiki.dll
